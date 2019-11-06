@@ -1,1 +1,1 @@
-Sopt Semina 2
+Sopt_Semina_2
