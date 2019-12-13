@@ -1,2 +1,2 @@
-# SOPT-Semina-Follower
-SOPT Semina2 assignment Follower
+# SOPT-Seminar-Follower
+SOPT Seminar2 assignment Follower
