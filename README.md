@@ -1,1 +1,2 @@
-#Sopt_semina_2
+# SOPT-Semina-Follower
+SOPT Semina2 assignment Follower
